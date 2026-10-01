@@ -11,6 +11,7 @@ import {
   Sparkles,
   Zap,
   Check,
+  FileCheck2,
 } from 'lucide-react';
 
 import { useLanguage } from '../../context/LanguageContext';
