@@ -44,7 +44,7 @@ export function LandingPage() {
 
 
   return (
-    <div className="min-h-screen bg-white text-[#111827] font-sans antialiased selection:bg-blue-600/15 selection:text-blue-700 flex flex-col relative overflow-x-hidden">
+    <div className="min-h-screen bg-[#FAF9F6] text-slate-800 font-sans antialiased selection:bg-[#FFC5AA]/40 selection:text-slate-900 flex flex-col relative overflow-x-hidden">
       {/* Interactive Anti-Gravity Dual-Layer Ambient Background */}
       <AntiGravityBackground mode="fixed" />
 
